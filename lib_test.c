@@ -1,4 +1,4 @@
-#include "StringEdit.h"
+#include "string_edit.h"
 
 int main( void ){
 
